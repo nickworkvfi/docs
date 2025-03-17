@@ -35,6 +35,17 @@
         ]
       },
       {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Petroleum",
+            "pages": [
+              "docs/petro/commander"
+            ]
+          }
+        ]
+      },      
+      {
         "tab": "API Reference",
         "groups": [
           {
